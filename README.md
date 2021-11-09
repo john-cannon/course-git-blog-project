@@ -9,7 +9,7 @@ This repo contains the source code of a blog project that will be used throughou
 * [Instructions](#instructions)
 * [Creator](#creators)
 
-## Instructions
+## Instructions are Great!
 
 * clone the project
 * open the index file in a browser
